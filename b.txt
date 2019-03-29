@@ -1,3 +1,4 @@
-สร้างไฟล์ b.txt
-ให้มีข้อความ
-แล้ว save
+Bee is animal
+
+
+แก้ไขไฟล์ b.txt ตอนที่อยู่ branch feature2 บรรทัดที่4
