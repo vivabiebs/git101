@@ -1,4 +1,8 @@
 Bee is animal
 
 
+<<<<<<< HEAD
 สลับไป master แก้ไข b.txt บรรทัดที่4
+=======
+แก้ไขไฟล์ b.txt ตอนที่อยู่ branch feature2 บรรทัดที่4
+>>>>>>> feature2
